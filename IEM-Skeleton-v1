@@ -1,1 +1,1 @@
-# 798435
+npx create-next-app@latest iem-skeleton --typescript
